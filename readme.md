@@ -8,7 +8,9 @@
 
 ### **2 스트림릿 초기 셋팅**
 
-- 파이썬 가상환경 설정  https://github.com/dabidstudio/dabidstudio_guides/blob/main/python-set-venv.md https://youtu.be/Osu2M7QmgCQ?feature=shared
+- 파이썬 가상환경 설정
+    - 문서 가이드 :    https://github.com/dabidstudio/dabidstudio_guides/blob/main/python-set-venv.md
+    - 영상 가이드 : https://youtu.be/Osu2M7QmgCQ?feature=shared
 - 스트림릿 패키지 설치
     
     ```python
