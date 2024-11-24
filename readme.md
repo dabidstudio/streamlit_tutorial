@@ -35,7 +35,6 @@
 
 ### **4 스트림릿 레이아웃**
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d8a93375-ff40-4608-b917-3905017c3ec6/af90cf95-2d50-4e5c-b800-204ed704911e/image.png)
 
 ### **5 스트림릿 위젯**
 
